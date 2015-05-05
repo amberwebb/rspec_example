@@ -10,4 +10,4 @@ To run tests
 
 * rspec
 
-<p>All tests are located in the spec folder</p>
+All tests are located in the spec folder
